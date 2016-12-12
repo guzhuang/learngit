@@ -8,3 +8,5 @@ authed by zhangjf
 test a file back down
 
  Git has a multible index called stage
+
+ Git tracks changes of files.
