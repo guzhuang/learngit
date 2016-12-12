@@ -10,3 +10,4 @@ test a file back down
  Git has a multible index called stage
 
  Git tracks changes of files fshfsdkjhf.
+ my stupid wife give me a stress
