@@ -5,4 +5,6 @@ authed by zhangjf
 
 2016-12-12
 
-test a file back down 
+test a file back down
+
+ Git has a multible index called stage
