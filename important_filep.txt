@@ -1,0 +1,4 @@
+/c/Users/djuph/.ssh/id_rsa)
+/c/Users/djuph/.ssh'
+Your identification has been saved in /c/Users/djuph/.ssh/id_rsa.
+Your public key has been saved in /c/Users/djuph/.ssh/id_rsa.pub.
